@@ -17,7 +17,7 @@
                         <div class="col-md-6 offset-md-3">
                             <div class="col-md-12 offset-md-12">
                                 <a href="{{route('login.google')}}" style="display: block; width: 100%; max-width:300px;margin-bottom:10px" class="btn btn-danger btn-block">Login with Google</a>
-                                <a href="https://www.facebook.com/" style="display: block; width: 100%; max-width:300px;margin-bottom:10px" class="btn btn-primary btn-block">Login with Facebook</a>
+                                <a href="{{route('login.facebook')}}" style="display: block; width: 100%; max-width:300px;margin-bottom:10px" class="btn btn-primary btn-block">Login with Facebook</a>
                                 <a href="{{route('login.github')}}" style="display: block; width: 100%; max-width:300px;margin-bottom:10px" class="btn btn-dark btn-block">Login with Github</a>
                                
                             </div>
