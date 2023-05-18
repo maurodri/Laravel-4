@@ -72,3 +72,6 @@ https://youtu.be/jIckLu1cKew
 
 ##
 Code For You
+
+# video de explicación 
+https://drive.google.com/drive/folders/1Qcy900B1pDLm8LK-LALFzHB9ovIBIngl
